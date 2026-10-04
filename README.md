@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0B1220,50:12364A,100:0E7490&text=ADAM%20KAYANGE&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20%7C%20GAME%20DEVELOPER&descSize=17&descAlignY=65&descColor=67E8F9" width="100%" alt="Adam Kayange Developer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0B1220,50:12364A,100:0E7490&text=ADAM%20KAYANGE&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20%7C%20MOBILE%20%7C%20GAME%20DEVELOPER&descSize=15&descAlignY=65&descColor=67E8F9" width="100%" alt="Adam Kayange Developer Banner"/>
 
 <br/>
 
@@ -17,11 +17,11 @@
 
 # 👋 Hi, I'm Adam Kayange
 
-### Full-Stack Developer | Game Developer
+### Full-Stack Developer | Mobile Developer | Game Developer
 
-**Building modern, interactive digital experiences.**
+**Building modern applications, powerful web platforms, and interactive digital experiences.**
 
-I develop mobile applications, modern web platforms, backend systems, and interactive game applications. My focus is on creating practical digital products that solve real-world problems through clean code, modern technologies, and thoughtful design.
+I build mobile applications, full-stack web platforms, backend systems, and interactive game experiences. I enjoy turning ideas into practical software products using modern programming languages, frameworks, databases, and development tools.
 
 ---
 
@@ -33,38 +33,38 @@ I develop mobile applications, modern web platforms, backend systems, and intera
 
 ### 🌐 Full-Stack Development
 
-Building web applications, responsive interfaces, backend services, and REST APIs.
+Building responsive web applications, frontend interfaces, backend services, and REST APIs.
 
-**Technologies:** React, Next.js, TypeScript, Node.js, Express.js.
+**Technologies:** React, Next.js, JavaScript, TypeScript, Node.js, Express.js.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📱 Mobile Development
 
-Developing cross-platform mobile applications and digital products.
+Creating cross-platform mobile applications and digital products.
 
-**Technologies:** Flutter and Dart.
+**Technologies:** Flutter, Dart, Firebase.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Development
+### ⚙️ Backend Engineering
 
-Building APIs, authentication systems, database integrations, and server-side applications.
+Developing APIs, authentication systems, database integrations, and server-side applications.
 
-**Technologies:** Node.js, Express.js, PostgreSQL, Prisma, Firebase.
+**Technologies:** Node.js, Express.js, PostgreSQL, Prisma, JWT.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 Game Development
 
-Exploring and developing interactive game applications and digital experiences.
+Working toward interactive games, gameplay systems, real-time environments, and 3D experiences.
 
-**Focus:** Interactive software and gameplay experiences.
+**Technologies:** Unreal Engine, Unity, C++, C#, Godot, Blender.
 
 </td>
 </tr>
@@ -113,8 +113,26 @@ Exploring and developing interactive game applications and digital experiences.
 ### 🎮 Game Development
 
 <p>
-<img src="https://img.shields.io/badge/Game_Development-0E7490?style=for-the-badge" alt="Game Development"/>
-<img src="https://img.shields.io/badge/Interactive_Experiences-172033?style=for-the-badge" alt="Interactive experiences"/>
+<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot Engine"/>
+</p>
+
+### 💻 Game Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript"/>
+</p>
+
+### 🎨 3D Modeling, Design & Animation
+
+<p>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+<img src="https://img.shields.io/badge/3D_Modeling-0E7490?style=for-the-badge" alt="3D Modeling"/>
+<img src="https://img.shields.io/badge/3D_Animation-12364A?style=for-the-badge" alt="3D Animation"/>
+<img src="https://img.shields.io/badge/Game_Design-172033?style=for-the-badge" alt="Game Design"/>
 </p>
 
 ### ☁️ Deployment & Developer Tools
@@ -132,55 +150,78 @@ Exploring and developing interactive game applications and digital experiences.
 ## 🚀 Featured Projects
 
 ### 🏠 01. Serikapp
+
 **Mobile Rental Platform**
 
 A mobile platform for finding and managing rental properties.
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-Serikapp-0E7490?style=for-the-badge&logo=github)](https://github.com/iamAdamKayange/serkapp)
+<a href="https://github.com/iamAdamKayange/serkapp">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-Serikapp-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View Serikapp"/>
+</a>
 
 ### 🏢 02. Serik Admin
+
 **Rental Ecosystem Administration**
 
-An administration platform for the Serik rental ecosystem.
+An administration platform for managing the Serik rental ecosystem.
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-Serik_Admin-0E7490?style=for-the-badge&logo=github)](https://github.com/iamAdamKayange/serik-admin)
+<a href="https://github.com/iamAdamKayange/serik-admin">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-Serik_Admin-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View Serik Admin"/>
+</a>
 
 ### ⛽ 03. Kibali cha Kuchukua Mafuta
+
 **Fuel Permit Management PWA**
 
 A Progressive Web App for fuel permit management with a role-based approval workflow.
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-Fuel_Permit-0E7490?style=for-the-badge&logo=github)](https://github.com/iamAdamKayange/Kibali-cha-Kuchukua-Mafuta)
+<a href="https://github.com/iamAdamKayange/Kibali-cha-Kuchukua-Mafuta">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-Fuel_Permit-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View Fuel Permit"/>
+</a>
 
 ### ⚙️ 04. Fuel Request Backend
+
 **Backend API**
 
-A backend API for the fuel permit management system.
+A backend API supporting the fuel permit management system.
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-Backend_API-0E7490?style=for-the-badge&logo=github)](https://github.com/iamAdamKayange/fuel-request-backend)
+<a href="https://github.com/iamAdamKayange/fuel-request-backend">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-Backend_API-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View Backend API"/>
+</a>
 
 ### 🛡️ 05. KidGuard
+
 **Child Safety & Monitoring**
 
 A mobile application focused on child safety and monitoring.
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-KidGuard-0E7490?style=for-the-badge&logo=github)](https://github.com/iamAdamKayange/KidGuard)
+<a href="https://github.com/iamAdamKayange/KidGuard">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-KidGuard-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View KidGuard"/>
+</a>
 
 ### 🎵 06. Tenzi
+
 **Christian Hymns & Worship**
 
 A mobile application for Christian hymns and worship.
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-Tenzi-0E7490?style=for-the-badge&logo=github)](https://github.com/iamAdamKayange/Tenzi)
+<a href="https://github.com/iamAdamKayange/Tenzi">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-Tenzi-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View Tenzi"/>
+</a>
 
 ### 🖨️ 07. StationaryMkononi
+
 **Digital Stationery & Online Printing**
 
 A digital stationery and online printing platform.
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-StationaryMkononi-0E7490?style=for-the-badge&logo=github)](https://github.com/iamAdamKayange/StationaryMkononi)
+<a href="https://github.com/iamAdamKayange/StationaryMkononi">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-StationaryMkononi-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View StationaryMkononi"/>
+</a>
 
 <div align="center">
+
+<br/>
 
 <a href="https://github.com/iamAdamKayange?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
@@ -195,7 +236,7 @@ A digital stationery and online printing platform.
 <div align="center">
 
 <a href="https://github.com/iamAdamKayange">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamAdamKayange&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamAdamKayange&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE" alt="Adam's GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/iamAdamKayange">
@@ -217,11 +258,11 @@ A digital stationery and online printing platform.
 <div align="center">
 
 <a href="https://adam-kayange-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Personal_Portfolio-Visit_Now-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio"/>
+<img src="https://img.shields.io/badge/PERSONAL_PORTFOLIO-Visit_Now-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio"/>
 </a>
 
 <a href="https://github.com/iamAdamKayange">
-<img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 <br/><br/>
