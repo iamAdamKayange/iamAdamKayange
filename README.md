@@ -1,7 +1,6 @@
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0B1220,50:12364A,100:0E7490&text=ADAM%20KAYANGE&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20%7C%20AI%20%7C%20GAME%20DEVELOPER&descSize=17&descAlignY=65&descColor=67E8F9" width="100%" alt="Adam Kayange Developer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0B1220,50:12364A,100:0E7490&text=ADAM%20KAYANGE&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20%7C%20GAME%20DEVELOPER&descSize=17&descAlignY=65&descColor=67E8F9" width="100%" alt="Adam Kayange Developer Banner"/>
 
 <br/>
 
@@ -18,13 +17,11 @@
 
 # 👋 Hi, I'm Adam Kayange
 
-### Full-Stack Developer | AI Developer | Game Developer
+### Full-Stack Developer | Game Developer
 
-**Building intelligent, interactive digital experiences.**
+**Building modern, interactive digital experiences.**
 
-I develop mobile applications, modern web platforms, backend systems, AI-powered solutions, and interactive game applications.
-
-My focus is on creating practical digital products that solve real-world problems through software engineering, modern technologies, and AI-assisted development.
+I develop mobile applications, modern web platforms, backend systems, and interactive game applications. My focus is on creating practical digital products that solve real-world problems through clean code, modern technologies, and thoughtful design.
 
 ---
 
@@ -54,11 +51,11 @@ Developing cross-platform mobile applications and digital products.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Development
+### ⚙️ Backend Development
 
-Working on AI-focused applications and incorporating AI-assisted workflows into software development.
+Building APIs, authentication systems, database integrations, and server-side applications.
 
-**Focus:** Intelligent software solutions.
+**Technologies:** Node.js, Express.js, PostgreSQL, Prisma, Firebase.
 
 </td>
 <td width="50%" valign="top">
@@ -111,13 +108,6 @@ Exploring and developing interactive game applications and digital experiences.
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon"/>
-</p>
-
-### 🤖 AI Development
-
-<p>
-<img src="https://img.shields.io/badge/AI_Development-7C3AED?style=for-the-badge" alt="AI Development"/>
-<img src="https://img.shields.io/badge/AI--Assisted_Software_Development-334155?style=for-the-badge" alt="AI-assisted development"/>
 </p>
 
 ### 🎮 Game Development
@@ -205,7 +195,7 @@ A digital stationery and online printing platform.
 <div align="center">
 
 <a href="https://github.com/iamAdamKayange">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamAdamKayange&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamAdamKayange&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE" alt="GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/iamAdamKayange">
@@ -238,6 +228,6 @@ A digital stationery and online printing platform.
 
 ### Thanks for visiting my profile! 👋
 
-**Building useful software. Exploring AI. Creating interactive experiences.**
+**Building useful software. Creating interactive experiences.**
 
 </div>
